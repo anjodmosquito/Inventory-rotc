@@ -1,0 +1,11 @@
+.profile-container {
+    text-align: center;
+}
+
+.circular-photo {
+    width: 50px; /* Adjust the width as needed */
+    height: 90px; /* Adjust the height as needed */
+    border-radius: 50%;
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
+    border: 2px solid #fff; /* Optional: Add a border to the circular photo */
+}
